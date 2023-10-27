@@ -1,2 +1,2 @@
 # exemples1
-exercie en classe 
+exercie en classe fait ensemble
